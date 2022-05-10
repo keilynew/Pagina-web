@@ -1,2 +1,2 @@
 # Pagina-web
-Es una pagina creada en clase
+Es una pagina web creada en clase
